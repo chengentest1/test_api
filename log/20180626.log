@@ -1,0 +1,6 @@
+2018-06-26 21:38:33,724 - connectionpool.py[line:208] - DEBUG: Starting new HTTP connection (1): 127.0.0.1
+2018-06-26 21:38:33,772 - connectionpool.py[line:396] - DEBUG: http://127.0.0.1:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-06-26 21:43:11,165 - connectionpool.py[line:208] - DEBUG: Starting new HTTP connection (1): 127.0.0.1
+2018-06-26 21:43:11,171 - connectionpool.py[line:396] - DEBUG: http://127.0.0.1:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-06-26 21:44:51,745 - log.py[line:48] - INFO: abc
+2018-06-26 21:44:51,745 - log.py[line:49] - DEBUG: hello, debug
